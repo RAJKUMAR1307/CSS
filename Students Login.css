@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Barlow:wght@100&family=Kaisei+Decol:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+.img{
+    background-image: url("cpm.jpg");
+   
+ background-size: cover;
+font-weight: bolder;
+
+}
+#para{
+    font-family: Righteous;
+    color: rgb(219, 207, 204);
+}
+.fon a{
+    font-size: 20px;
+    color: rgb(202, 139, 44); 
+font-family: Cairo; 
+text-decoration: none;
+padding: 30px;
+}
+.fon:hover a{
+    background-color: seashell;
+    background-size: 5px;
+    border-radius: 25px;
+    color: rgba(27, 31, 26, 0.884);
+    cursor: -webkit-grab;
+}
+/*added for  new page */
+.end{
+    color: rgb(222, 238, 237);
+    background-color: rgb(8, 8, 8);
+    border-radius: 5px;
+}
+.end:hover{
+    color: rgb(248, 12, 12);
+    background-color: rgb(253, 253, 253);
+    border-radius: 5px;
+    cursor: -webkit-grab;
+}
+.find{
+    font-size: 25px;
+color: chartreuse;
+font-family: Kaisei Decol;
+}
+.new a{
+    color: brown;
+    text-decoration: none;
+    font-size: 17px;
+}
+.new:hover a{
+    color: white;
+    border-radius: 5px;
+    background-color: black;
+    text-decoration: none;
+}
+.nw{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    }
+    .nw:hover{
+        color: black;
+        background-color: powderblue;
+        cursor: pointer;
+        }
+        .ele{
+            color: rgb(11, 236, 225);
+         font-style: oblique;
+         font-size: 20PX;
+        margin: auto;
+        }
+        .but{
+            color: red;
+        }
+        #col{
+            background-color: white;
+            border-radius: 5px;
+        }
+.mb{
+    color: rgb(202, 139, 44);
+    width: 100px;
+    border-radius: 5px;
+}
+.ins {
+    border-style: solid;
+    border-radius: 7px;
+    background-color: rgb(25, 26, 23);
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.ins:hover{
+    background: rgb(240, 54, 54);
+    cursor: pointer;
+    color: black;
+}     
+.fb {
+
+    border-style: solid;
+    border-radius: 7px;
+    background-color: rgb(25, 26, 23);
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.fb:hover{
+    background: rgb(103, 209, 41);
+    cursor: pointer;
+    color: black;
+}

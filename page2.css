@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+.img{
+    background-image: url("cpm.jpg");
+   
+ background-size: cover;
+font-weight: bolder;
+
+}
+#para{
+    font-family: Righteous;
+    color: rgb(219, 207, 204);
+}
+.fon a{
+    font-size: 20px;
+    color: rgb(180, 128, 50); 
+font-family: Cairo; 
+text-decoration: none;
+padding: 30px;
+}
+.fon:hover a{
+    background-color: seashell;
+    background-size: 5px;
+    border-radius: 25px;
+    color: rgba(27, 31, 26, 0.884);
+    cursor: -webkit-grab;
+}
+/*newly added for PAGE 2*/
+
+.com{
+    font-family: cursive;
+    color: rgb(202, 139, 44);
+
+}
+
+.fb {
+    
+    border-style: solid;
+    border-radius: 7px;
+    background-color: rgb(25, 26, 23);
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.fb:hover{
+    background: rgb(103, 209, 41);
+    cursor: pointer;
+}
+.ins {
+    border-style: solid;
+    border-radius: 7px;
+    background-color: rgb(25, 26, 23);
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.ins:hover{
+    background: rgb(240, 54, 54);
+    cursor: pointer;
+}
+/*not used*/
+#png{
+    color: rgb(224, 209, 209);
+    font-family: Oswald;
+}

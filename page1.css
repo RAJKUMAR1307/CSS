@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+.img{
+    background-image: url("cpm.jpg");
+   
+ background-size: cover;
+font-weight: bolder;
+
+}
+#para{
+    font-family: Righteous;
+    color: rgb(219, 207, 204);
+  
+}
+.fon a{
+    font-size: 20px;
+    color: rgb(202, 139, 44); 
+font-family: Cairo; 
+text-decoration: none;
+padding: 30px;
+}
+.fon:hover a{
+    background-color: seashell;
+    background-size: 5px;
+    border-radius: 25px;
+    color: rgba(27, 31, 26, 0.884);
+    cursor: -webkit-grab;
+}
+.par{
+    text-align:inherit;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+color: rgb(245, 238, 238);
+font-weight: 1000;
+}
+/*added for page 6*/
+.find{
+    font-size: 20px;
+color: chartreuse;
+}
+.new a{
+    color: rgb(224, 143, 66);
+    text-decoration: none;
+    font-size: 17px;
+}
+.new:hover a{
+    color: rgb(20, 19, 19);
+    border-radius: 5px;
+    background-color: cornsilk;
+    text-decoration: none;
+}
